@@ -41,3 +41,4 @@ A real-time chat application built using **Flutter** and **Firebase**, designed 
 
 ## 📂 Folder Structure
 
+
